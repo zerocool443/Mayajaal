@@ -1,6 +1,6 @@
 import shodan
 import sys
-key="X8jGgSyWwH5AqN2tFKybmicNeoBgRMXk"
+key="**************" #Put you key here
 api=shodan.Shodan(key);
 
 if __name__ == '__main__':
